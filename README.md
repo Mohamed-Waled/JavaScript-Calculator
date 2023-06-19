@@ -20,7 +20,7 @@ This is a solution to the [Build a JavaScript Calculator](https://www.freecodeca
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://eclectic-florentine-7a0829.netlify.app/)
+- Live Site URL: [Live site URL here](https://java-script-calculator-xi.vercel.app/)
 
 ## My process
 
